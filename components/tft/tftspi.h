@@ -106,7 +106,8 @@
 #define DEFAULT_SPI_CLOCK           26000000
 #define TFT_INVERT_ROTATION         0
 #define TFT_INVERT_ROTATION1        0
-#define TFT_INVERT_ROTATION2        1   // Adapte M5Stack TFT
+#define TFT_INVERT_ROTATION2        0   // Adapte M5Stack TFT
+                                        // Change from 1 to 0 for 2.8" LCD ILI9341
 #define TFT_RGB_BGR                 0x08
 
 #define USE_TOUCH                   TOUCH_TYPE_NONE

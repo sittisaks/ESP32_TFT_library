@@ -386,3 +386,10 @@ ESP32-WROVER-KIT v3, ST7789V controller, 240x320
 1.8" 128x160 ST7735 conroller from eBay
 ![Tested on](https://raw.githubusercontent.com/loboris/MicroPython_ESP32_psRAM_LoBo/master/Documents/disp_7735.jpg)
 
+======================================================================
+Modify to suit 2.8 TFT SPI 240x320 V1.2 build from windows environment
+======================================================================
+
+2.8" 240x320 ILI9341 conroller
+![Tested on](https://github.com/sittisaks/ESP32_TFT_library/tree/master/Documents/ili9341_wiring.jpg)
+
