@@ -391,5 +391,5 @@ Modify to suit 2.8 TFT SPI 240x320 V1.2 build from windows environment
 ======================================================================
 
 2.8" 240x320 ILI9341 conroller
-![Tested on](https://github.com/sittisaks/ESP32_TFT_library/tree/master/Documents/ili9341_wiring.jpg)
+![Tested on](https://github.com/sittisaks/ESP32_TFT_library/raw/master/Documents/ili9341_wiring.jpg)
 
